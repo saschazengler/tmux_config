@@ -1,6 +1,6 @@
 ## Tmux Configuration
 
-For my minimal setup I use the following plugins [Tmux](https://github.com/tmux/tmux).
+For my minimal setup I use the following [Tmux](https://github.com/tmux/tmux) plugins.
 - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 - [Tmux sensible](https://github.com/tmux-plugins/tmux-sensible)
 - [tmux-fastcopy](https://github.com/abhinav/tmux-fastcopy)
