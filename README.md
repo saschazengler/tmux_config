@@ -1,4 +1,4 @@
-## Tmux Configuration
+# Tmux Configuration
 
 For my minimal setup I use the following [Tmux](https://github.com/tmux/tmux) plugins.
 - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
