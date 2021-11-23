@@ -8,3 +8,4 @@ For my minimal setup I use the following [Tmux](https://github.com/tmux/tmux) pl
 - [Tmux Pomodoro Plus](https://github.com/olimorris/tmux-pomodoro-plus)
 - [Tmux urlview](https://github.com/tmux-plugins/tmux-urlview)
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload)
+- [Tmux online status](https://github.com/tmux-plugins/tmux-online-status)
