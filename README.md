@@ -9,3 +9,4 @@ For my minimal setup I use the following [Tmux](https://github.com/tmux/tmux) pl
 - [Tmux urlview](https://github.com/tmux-plugins/tmux-urlview)
 - [tmux-autoreload](https://github.com/b0o/tmux-autoreload)
 - [Tmux online status](https://github.com/tmux-plugins/tmux-online-status)
+- [Network bandwidth plugin for tmux](https://github.com/xamut/tmux-network-bandwidth)
