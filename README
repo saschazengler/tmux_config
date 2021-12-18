@@ -5,9 +5,11 @@ I use the following tmux plugins.
 - abhinav/tmux-fastcopy
 - b0o/tmux-autoreload
 - olimorris/tmux-pomodoro-plus
-- tmux-plugins/tpm
-- tmux-plugins/tmux-sensible
-- tmux-plugins/tmux-urlview
+- tmux-plugins/tmux-continuum
 - tmux-plugins/tmux-online-status
 - tmux-plugins/tmux-prefix-highlight
+- tmux-plugins/tmux-resurrect
+- tmux-plugins/tmux-sensible
+- tmux-plugins/tpm
+- tmux-plugins/tmux-urlview
 - xamut/tmux-network-bandwidth
