@@ -3,6 +3,7 @@
 I use the following tmux plugins.
 
 - abhinav/tmux-fastcopy
+- alexanderjeurissen/tmux-world-clock
 - b0o/tmux-autoreload
 - olimorris/tmux-pomodoro-plus
 - tmux-plugins/tmux-continuum
