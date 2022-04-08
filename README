@@ -3,8 +3,6 @@ Tmux Configuration
 I use the following tmux plugins.
 
 - abhinav/tmux-fastcopy
-- alexanderjeurissen/tmux-world-clock
-- Brutuski/tmux-ticker
 - b0o/tmux-autoreload
 - olimorris/tmux-pomodoro-plus
 - tmux-plugins/tmux-continuum
@@ -14,4 +12,3 @@ I use the following tmux plugins.
 - tmux-plugins/tmux-sensible
 - tmux-plugins/tpm
 - tmux-plugins/tmux-urlview
-- xamut/tmux-network-bandwidth
